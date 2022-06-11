@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi there, I'm Ashish <img src="./gif/gif.gif?raw=true" width="25" loading="lazy" ></h1>
+### <h1 align="center"> Hi there, I'm Ashish <img src="https://raw.githubusercontent.com/ashishbhatiam/ashishbhatiam/master/gif/gif.gif" width="25" loading="lazy" ></h1>
 
 <h3 align="center">🚀 Web Developer🚀</h3><br>
 
