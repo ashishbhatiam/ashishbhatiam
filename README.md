@@ -1,8 +1,8 @@
 ### <h1 align="center"> Hi there, I'm Ashish <img src="https://raw.githubusercontent.com/ashishbhatiam/ashishbhatiam/master/gif/gif.gif" width="25" loading="lazy" ></h1>
 
-<h3 align="center">🚀 Web Developer🚀</h3><br>
+<h3 align="center">🚀 Full-stack Developer 🚀</h3><br>
 
-- 🌱 I’m currently learning NodeJS, ReactJS & ExpressJS
+- 🌱 I’m currently learning more on ReactJS, NodeJS, & ExpressJS
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
 
