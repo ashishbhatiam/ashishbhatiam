@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 Full-stack Developer 🚀</h3><br>
 
-- 🌱 I’m currently learning more on ReactJS, NodeJS, & ExpressJS
+- 🌱 I’m currently learning more on ReactJS, NodeJS & ExpressJS
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
 
