@@ -6,7 +6,7 @@
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
 
-- 📫 How to reach me: [![Portfolio Badge](https://img.shields.io/badge/-ashishbhatia.netlify.app-black?style=flat-square&logo=html5&logoColor=white&link=https://ashishbhatia.netlify.app/)](https://ashishbhatia.netlify.app/)
+- 📫 How to reach me: [![Portfolio Badge](https://img.shields.io/badge/-ashishbhatia.dev-black?style=flat-square&logo=html5&logoColor=white&link=https://ashishbhatia.dev/)](https://ashishbhatia.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-ashishbhatiam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishbhatiam@gmail.com)](mailto:ashishbhatiam@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ashish-bhatia-66319719a) 
 
